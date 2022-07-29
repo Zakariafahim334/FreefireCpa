@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'FreeFire-Black';
-    src: url('BurbankBigRegular-Black.woff2') format('woff2'),
-        url('BurbankBigRegular-Black.woff') format('woff');
+    src: url('https://raw.githack.com/Zakariafahim334/FreefireCpa/main/BurbankBigRegular-Black.woff2') format('woff2'),
+        url('https://raw.githack.com/Zakariafahim334/FreefireCpa/main/BurbankBigRegular-Black.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'FreeFire-Bold';
-    src: url('BurbankBigRegular-Bold.woff2') format('woff2'),
-        url('BurbankBigRegular-Bold.woff') format('woff');
+    src: url('https://raw.githack.com/Zakariafahim334/FreefireCpa/main/BurbankBigRegular-Bold.woff2') format('woff2'),
+        url('https://raw.githack.com/Zakariafahim334/FreefireCpa/main/BurbankBigRegular-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'FreeFire-Medium';
-    src: url('BurbankBigRegular-Medium.woff2') format('woff2'),
-        url('BurbankBigRegular-Medium.woff') format('woff');
+    src: url('https://raw.githack.com/Zakariafahim334/FreefireCpa/main/BurbankBigRegular-Medium.woff2') format('woff2'),
+        url('https://raw.githack.com/Zakariafahim334/FreefireCpa/main/BurbankBigRegular-Medium.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
